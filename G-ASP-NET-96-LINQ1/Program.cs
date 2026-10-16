@@ -194,7 +194,7 @@ namespace G_ASP_NET_96_LINQ1
 
                 #region Q10 - Query Syntax Compound From
 
-                Console.WriteLine("\n========== Q10 ==========");
+                Console.WriteLine("\n========== Q10 =========");
 
                 var q10 =
                     from customer in CustomerList
